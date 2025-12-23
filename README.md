@@ -1,15 +1,14 @@
 # Hi there, I'm Jon Jenkins! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://www.freepik.com/free-photos-vectors/dark-banner)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Game Developer]** with experience in **[Unreal Engine]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 🌱 Currently learning: **[Unreal Engine, Unity, C++, C#]**
+- 🔭 Working on: **[Game Programming Degree]**
+- 🌍 Languages: **[java, C++, C#, Python]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
