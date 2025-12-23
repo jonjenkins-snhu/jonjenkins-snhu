@@ -1,6 +1,6 @@
 # Hi there, I'm Jon Jenkins! 👋
 
-![Banner Image](https://www.freepik.com/free-photos-vectors/dark-banner)
+![Banner Image](shane-lee-littlewood-asset-49.jpg)
 
 ## About Me 🚀
 
